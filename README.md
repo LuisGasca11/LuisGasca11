@@ -1,10 +1,6 @@
 <h1 align="center">Hola, soy Luis 👋</h1>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisGasca11&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</div>
-
-### 🚀 Sobre mí
+### Sobre mí
 Desarrollador enfocado en crear soluciones eficientes y escalables. Apasionado por el aprendizaje continuo y las nuevas tecnologías.
 
 ---
