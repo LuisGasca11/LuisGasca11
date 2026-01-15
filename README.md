@@ -1,54 +1,70 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
+<h1 align="center">Hola, soy Luis 👋</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://streak-stats.demolab.com?user=LuisGasca11&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
-###
+### 🚀 Sobre mí
+Desarrollador enfocado en crear soluciones eficientes y escalables. Apasionado por el aprendizaje continuo y las nuevas tecnologías.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### **Lenguajes de Programación**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,php,py,rust" />
+</p>
+
+#### **Frontend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind" />
+</p>
+
+#### **Backend & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,laravel,android" />
+</p>
+
+#### **Bases de Datos**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql" />
+</p>
+
+#### **Herramientas & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,aws" />
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/LuisGasca11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://github-profile-trophy.vercel.app?username=LuisGasca11&theme=dracula&column=7&margin-w=15&no-bg=false&no-frame=false" alt="Trophies" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisGasca11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=LuisGasca11&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisGasca11/LuisGasca11/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisGasca11/LuisGasca11/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuisGasca11/LuisGasca11/output/github-contribution-grid-snake.svg">
+    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/LuisGasca11/LuisGasca11/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-###
+---
+
+### 🤝 Conéctate conmigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/LuisGasca11" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/LuisGasca11" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
