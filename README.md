@@ -1,11 +1,11 @@
-<h1 align="center">Hola, soy Luis 👋</h1>
+<h1 align="center">Hola, soy Luis </h1>
 
 ### Sobre mí
 Desarrollador enfocado en crear soluciones eficientes y escalables. Apasionado por el aprendizaje continuo y las nuevas tecnologías.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 #### **Lenguajes de Programación**
 <p align="left">
@@ -34,7 +34,7 @@ Desarrollador enfocado en crear soluciones eficientes y escalables. Apasionado p
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+###  Mis Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=LuisGasca11&theme=dracula&column=7&margin-w=15&no-bg=false&no-frame=false" alt="Trophies" />
@@ -52,7 +52,7 @@ Desarrollador enfocado en crear soluciones eficientes y escalables. Apasionado p
 
 ---
 
-### 🤝 Conéctate conmigo
+###  Conéctate conmigo
 <div align="center">
   <a href="https://www.linkedin.com/in/LuisGasca11" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
