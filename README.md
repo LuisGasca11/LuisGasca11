@@ -34,16 +34,6 @@ Desarrollador enfocado en crear soluciones eficientes y escalables. Apasionado p
 
 ---
 
-###  Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=LuisGasca11&theme=dracula&column=7&margin-w=15&no-bg=false&no-frame=false" alt="Trophies" />
-</div>
-
-<br/>
-
----
-
 ###  Conéctate conmigo
 <div align="center">
   <a href="https://www.linkedin.com/in/LuisGasca11" target="_blank">
