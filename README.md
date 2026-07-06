@@ -29,7 +29,7 @@ Desarrollador enfocado en crear soluciones eficientes y escalables. Apasionado p
 
 #### **Herramientas & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -41,14 +41,6 @@ Desarrollador enfocado en crear soluciones eficientes y escalables. Apasionado p
 </div>
 
 <br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisGasca11/LuisGasca11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisGasca11/LuisGasca11/output/github-contribution-grid-snake.svg">
-    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/LuisGasca11/LuisGasca11/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
