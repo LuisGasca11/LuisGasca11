@@ -43,18 +43,6 @@ building & shipping
 
 <div align="center">
 
-### THE POINT OF VIEW
-
-</div>
-
-En Black Sheep, una agencia pequeña, no me quedo en una sola capa del proyecto: paso por frontend, backend y QA en el mismo ciclo. Esa forma de trabajar me obliga a entender cada proyecto de punta a punta en lugar de aislarme en una sola parte del stack.
-
-Con el tiempo eso se ha traducido en una base amplia — desarrollo web, administracion de servidores, aplicaciones moviles y procesos de CI/CD — y en la costumbre de seguir aprendiendo con cada proyecto nuevo que llega.
-
-<br />
-
-<div align="center">
-
 ### STACK
 
 <br />
